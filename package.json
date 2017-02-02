@@ -1,5 +1,5 @@
 {
-  "name": "hodash.isset",
+  "name": "hodash.is-set",
   "version": "1.0.0",
   "description": "Checks if the provided value is an ES6 Set.",
   "main": "index.js",
