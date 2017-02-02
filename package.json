@@ -1,0 +1,17 @@
+{
+  "name": "hodash.isset",
+  "version": "1.0.0",
+  "description": "Checks if the provided value is an ES6 Set.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "hodash",
+    "ES6",
+    "Set"
+  ],
+  "author": "Tomas Savigliano",
+  "license": "ISC"
+}
